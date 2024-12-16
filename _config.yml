@@ -21,7 +21,7 @@
 title: Smile Face Games
 email: hey@cowcowwow.kr
 description: >- # this means to ignore newlines until "baseurl:"
-  This is official site of Smileface Game Series. Enjoy cheerful game series with your smiley face!
+  Enjoy cheerful game series with your smiley face!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
